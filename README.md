@@ -20,4 +20,4 @@ Exploring statistical concepts and applying them using R for in-depth data analy
 1. Clone this repository:
 
    ```bash
-   git clone git@github.com:LenicoMarak/Data-Science.git
+   git clone git@github.com:LenicoMarak/Data-Science-With-R.git
