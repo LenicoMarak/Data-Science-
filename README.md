@@ -8,7 +8,7 @@ The Data Science course covers a broad range of topics, including statistical an
 
 ### R Programming
 
-We learne the fundamentals of R programming, enabling to efficiently analyze and manipulate data
+We learn the fundamentals of R programming, enabling to efficiently analyze and manipulate data
 
 ## Statistical Analysis with R
 
