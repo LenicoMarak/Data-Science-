@@ -1,4 +1,4 @@
-# Data Science Lab Works 
+## Data Science Lab Works 
 
 Welcome to my Data Science lab work ! This repository contains the code and projects I've completed during my journey in the Data Science course.
 
@@ -23,4 +23,4 @@ Exploring statistical concepts and applying them using R for in-depth data analy
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/data-science-course.git
+   git clone https://github.com/LenicoMarak/Data-Science.git
